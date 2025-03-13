@@ -5,3 +5,5 @@ Ensinando Git/Github para a turma 1TDSPH
 
 
 Estou iniciando minha carreira DEV...
+
+Estamos aprendendo a materia Front-end e quero ser um otimo programador
